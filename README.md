@@ -3,7 +3,7 @@
 ## I'm a Front-end Developer specializing in React!
 - 🐱‍👤 I'm currently learning how to build apps with solidity and web3 tools
 - 👨🏿‍🤝‍👨🏽 I'm looking to collaborate with other developers
-- 2️⃣0️⃣2️⃣2️⃣ Goals: Contribute more to projects - Open sources and the likes
+- 2️⃣0️⃣2️⃣3️⃣ Goals: Contribute more to projects - Open sources and the likes
 - ⚡ Fun fact: I love horror movies and playing football
 
 ### Connect with me 

@@ -1,7 +1,7 @@
 ### I'm Chukwuemeka Timothy Ofili - aka Kode Navigator 🤫
 
 ## I'm a Front-end Developer specializing in React!
-- 🐱‍👤 I'm currently building fintech, logistics and mobile app solutions.
+- 🐱‍👤 I enjoy building fintech, logistics, and mobile app solutions.
 - 👨🏿‍🤝‍👨🏽 I'm looking to collaborate with other developers
 - 2️⃣0️⃣2️⃣5️⃣ Goals: Contribute more to projects - Open sources and the likes
 - ⚡ Fun fact: I love horror movies and playing football
@@ -28,4 +28,4 @@
 <br />
 
 [twitter]: https://twitter.com/kode_navigator?t=J74gEN3Da5UR44ImIE905A&s=09
-[linkedin]: https://www.linkedin.com/in/chukwuemeka-ofili-7589a2156
+[linkedin]: https://www.linkedin.com/in/chukwuemeka-ofili

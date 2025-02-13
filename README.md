@@ -6,6 +6,12 @@
 - 2️⃣0️⃣2️⃣5️⃣ Goals: Contribute more to projects - Open sources and the likes
 - ⚡ Fun fact: I love horror movies and playing football
 
+### Projects
+
+* [Pixel Playground][http://pixelplaygroundng.com/]
+* [Maildrip][https://app.maildrip.io/]
+* [Muzingo][https://playmuzingo.com/] 
+
 ### Connect with me 
 
 - [Twitter][twitter]

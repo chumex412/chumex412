@@ -8,9 +8,9 @@
 
 ### Projects
 
-* [Pixel Playground][http://pixelplaygroundng.com/]
-* [Maildrip][https://app.maildrip.io/]
-* [Muzingo][https://playmuzingo.com/] 
+* [Pixel Playground][pixelplayground]
+* [Maildrip][maildrip]
+* [Muzingo][muzingo] 
 
 ### Connect with me 
 
@@ -35,3 +35,6 @@
 
 [twitter]: https://twitter.com/kode_navigator?t=J74gEN3Da5UR44ImIE905A&s=09
 [linkedin]: https://www.linkedin.com/in/chukwuemeka-ofili
+[pixelplayground]: http://pixelplaygroundng.com/
+[maildrip]: https://app.maildrip.io/
+[muzingo]: https://playmuzingo.com/
